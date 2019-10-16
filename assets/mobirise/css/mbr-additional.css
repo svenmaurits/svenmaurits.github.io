@@ -709,6 +709,17 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rF5SeNEjF6 {
+  background-image: url("../../../assets/images/20190915-74859-2000x1500.jpg");
+}
+.cid-rDKtopDn8q {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rDKtopDn8q .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rDJAsEZrts {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -763,169 +774,5 @@ section.lazy-placeholder:after {
 @media (max-width: 550px) {
   .cid-rDJAsEZrts .price-figure {
     font-size: 4.25rem;
-  }
-}
-.cid-rDKvVDVCRv {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rDKvVDVCRv .pricing {
-  padding: 3.3rem;
-  color: #767676;
-  background-color: #fff;
-}
-@media (max-width: 767px) {
-  .cid-rDKvVDVCRv .pricing {
-    padding: 1.5rem;
-  }
-}
-.cid-rDKvVDVCRv .plan-header,
-.cid-rDKvVDVCRv .plan-body {
-  background-color: #fff;
-}
-.cid-rDKvVDVCRv .plan-title {
-  margin-top: 1.4rem;
-}
-.cid-rDKvVDVCRv .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-@media (max-width: 550px) {
-  .cid-rDKvVDVCRv .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rDKvVDVCRv .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-.cid-rDKvVDVCRv hr {
-  margin: 2rem 0;
-}
-.cid-rDKtopDn8q {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rDKtopDn8q .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rDJTQ5yeVl {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rDJTQ5yeVl h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rDJTQ5yeVl .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-rDJTQ5yeVl .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rDJTQ5yeVl .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-rDJTQ5yeVl ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-rDJTQ5yeVl path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rDJTQ5yeVl .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-rDJTRTJmJk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rDJTRTJmJk h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rDJTRTJmJk .progress {
-  width: 100%;
-}
-.cid-rDJTRTJmJk .title-wrap {
-  display: flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-}
-.cid-rDJTRTJmJk progress {
-  height: 8px;
-}
-.cid-rDJTRTJmJk .progressbar-number {
-  display: inline-block;
-}
-.cid-rDJTRTJmJk .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-rDJTRTJmJk .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rDJTRTJmJk .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rDJTRTJmJk .section-content-title {
-  font-weight: 500;
-}
-.cid-rDJTRTJmJk .progress_value {
-  position: relative;
-}
-.cid-rDJTRTJmJk .progress1 .progressbar-number:before,
-.cid-rDJTRTJmJk .progress2 .progressbar-number:before,
-.cid-rDJTRTJmJk .progress3 .progressbar-number:before,
-.cid-rDJTRTJmJk .progress4 .progressbar-number:before,
-.cid-rDJTRTJmJk .progress5 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-rDJTRTJmJk progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rDJTRTJmJk progress::-webkit-progress-value {
-  background: #149dcc;
-}
-.cid-rDJTRTJmJk progress[value]::-moz-progress-bar {
-  background: #149dcc;
-}
-.cid-rDJTRTJmJk progress::-ms-fill {
-  background: #149dcc;
-}
-.cid-rDJTRTJmJk .progress1 .progressbar-number:before {
-  content: '100';
-}
-.cid-rDJTRTJmJk .progress2 .progressbar-number:before {
-  content: '90';
-}
-.cid-rDJTRTJmJk .progress3 .progressbar-number:before {
-  content: '80';
-}
-.cid-rDJTRTJmJk .progress4 .progressbar-number:before {
-  content: '70';
-}
-.cid-rDJTRTJmJk .progress5 .progressbar-number:before {
-  content: '60';
-}
-@media (min-width: 768px) {
-  .cid-rDJTRTJmJk .text-elements {
-    padding-right: 3rem;
-  }
-  .cid-rDJTRTJmJk .progress_elements {
-    padding-left: 3rem;
   }
 }
