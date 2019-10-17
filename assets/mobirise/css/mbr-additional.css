@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&display=swap);
 
 
 
@@ -40,7 +41,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +547,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -947,10 +948,6 @@ section.lazy-placeholder:after {
 .cid-rF625Bk53W .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rF625Bk53W .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rF625Bk53W .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rF625Bk53W .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rF625Bk53W .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -961,7 +958,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rF625Bk53W .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.9rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rF625Bk53W .collapsed button.navbar-toggler {
@@ -1051,10 +1048,6 @@ section.lazy-placeholder:after {
   .cid-rF625Bk53W .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rF625Bk53W .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rF625Bk53W .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rF625Bk53W .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rF625Bk53W .navbar-collapse.collapsing .navbar-buttons,
   .cid-rF625Bk53W .navbar-collapse.show .navbar-buttons {
